@@ -73,7 +73,7 @@ module.exports = {
     'no-loop-func': 'error',
     'no-magic-numbers': 'off',
     'no-multi-str': 'error',
-    'no-new': 'error',
+    'no-new': 'off',
     'no-new-func': 'error',
     'no-new-wrappers': 'error',
     'no-octal': 'error',
