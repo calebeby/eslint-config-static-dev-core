@@ -1,0 +1,6 @@
+{
+  "name": "eslint-config-static-dev-core",
+  "devDependencies": {
+    "eslint": "^4.8.0"
+  }
+}
